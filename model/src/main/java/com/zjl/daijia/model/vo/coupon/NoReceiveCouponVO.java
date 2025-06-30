@@ -6,7 +6,7 @@ import lombok.Data;
 import java.util.Date;
 
 /**
- * NoReceiveCouponVO
+ * 未收到的优惠券
  * <p>
  * Created by Zhangjilin on 2025/6/23
  */
